@@ -3,7 +3,7 @@
 
 function Demo() {
   return (
-    <div>Hello, Image Spotlight</div>
+    <div className="flex items-center justify-center w-full h-full bg-slate-400">Hello, Image Spotlight</div>
   )
 }
 
