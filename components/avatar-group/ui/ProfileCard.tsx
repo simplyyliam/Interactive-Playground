@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Profile from "./Profile";
-import { Button } from "@/shared-components/Button";
 
 interface Profile {
   name: string;
